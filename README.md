@@ -1,4 +1,4 @@
-# computacao-grafica
+# Atividade 1 - Disciplina: Computação Gráfica
 
 Descrição da atividade:
 
